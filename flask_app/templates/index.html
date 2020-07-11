@@ -1,0 +1,22 @@
+{% extends "basic_page_structure.html" %}
+
+{% block body_block %}
+    <h1>Blog Page:</h1>
+    <h3>This is a basic blog using Flask.</h3>
+    <hr>
+    <div class="panel-group">
+        {% for post in post_data_1 %}
+            <div class="card mb-4">
+              <div class="card-header">{{ post.title }}</div>
+              <div class="card-body">
+                <blockquote class="blockquote mb-0">
+                    <p>{{ post.desc }}</p>
+                    <footer>Author:&nbsp;<strong>{{ post.author }}</strong></footer>
+                    <footer>Posted on:&nbsp;<strong>{{ post.date_posted }}</strong></footer>
+                </blockquote>
+              </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}
+
