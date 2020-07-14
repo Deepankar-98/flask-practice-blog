@@ -3,17 +3,34 @@
 ### Table of Contents:
 
 1. [Description](#description)
-2. [Installation](#installation)
-3. [Features](#features)
-4. [Examples](#examples)
+2. [Features](#features)
+3. [Installation](#installation)
 5. [License](#license)
 6. [Version](#version)
 7. [Author](#author)
+----
+
 
 ### Description
 > This project uses **Python, flask, html, css, bootstrap** for creating a basic blog.
 >
 > This project is made to familiarise with Flask and implement the learnt concepts. It is not complete and various features will be added in future.
+----
+
+
+## Features
+
+The features added in the flask application are as follows:
+
+ - Sign Up
+ - Login 
+ - See Account Details
+ - Update Account Details
+ - Add & Update profile picture with image resizing
+ - Restricting access to certain pages based on login status
+ 
+**More features will be added in future.**
+---
 
 
 ### Installation
@@ -31,32 +48,24 @@ To execute the flask applycation, use the following command:
 ```python
 $ python run.py
 ```
-
-### Features
-
-The features added in the flask application are as follows:
-
- - Sign Up
- - Login 
- - See Account Details
- - Update Account Details
- - Add & Update profile picture with image resizing
- - Restricting access to certain pages based on login status
- 
-**More features will be added in future.**
-
-### Examples
+---
 
 
 
-### Licence
+## License
+
+MIT © [Deepankar](https://github.com/Deepankar-98/Flask-Practice-Project)
+---
 
 
  
 ### Version
 
- 
+1.0.0
+--- 
  
 ### Author
 
 The author of this project is [Deepankar](https://github.com/Deepankar-98/Flask-Practice-Project).
+
+
