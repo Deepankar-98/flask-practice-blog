@@ -8,14 +8,17 @@
 5. [License](#license)
 6. [Version](#version)
 7. [Author](#author)
-----
+
+---
 
 
 ### Description
 > This project uses **Python, flask, html, css, bootstrap** for creating a basic blog.
 >
 > This project is made to familiarise with Flask and implement the learnt concepts. It is not complete and various features will be added in future.
-----
+
+---
+
 
 
 ## Features
@@ -30,7 +33,9 @@ The features added in the flask application are as follows:
  - Restricting access to certain pages based on login status
  
 **More features will be added in future.**
+
 ---
+
 
 
 ### Installation
@@ -48,13 +53,16 @@ To execute the flask applycation, use the following command:
 ```python
 $ python run.py
 ```
+
 ---
+
 
 
 
 ## License
 
 MIT © [Deepankar](https://github.com/Deepankar-98/Flask-Practice-Project)
+
 ---
 
 
@@ -62,7 +70,10 @@ MIT © [Deepankar](https://github.com/Deepankar-98/Flask-Practice-Project)
 ### Version
 
 1.0.0
+
 --- 
+ 
+ 
  
 ### Author
 
