@@ -1,4 +1,4 @@
-# <u>Flask-Practice-Project</u>:
+# <u>Flask Blog</u>:
 
 ### Table of Contents:
 
@@ -10,4 +10,13 @@
 6. [Author:](#author)
 
 <h3 id="description">Description:</h3>
-In this project a blog is implemented using flask to practice the concepts learned. This is not a complete project and lots of functionality needs to be added to it.
+> This project uses *Python, flask, html, css, bootstrap* for creating a basic blog.
+>
+> This project is not not complete and various features need to be added in future.
+
+
+### Installation
+
+Python 3.7.3 is used for this project.
+
+To install th
