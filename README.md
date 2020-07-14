@@ -5,15 +5,15 @@
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Features](#features)
-3. [Examples](#examples)
-4. [License](#license)
-5. [Version](#version)
-6. [Author](#author)
+4. [Examples](#examples)
+5. [License](#license)
+6. [Version](#version)
+7. [Author](#author)
 
 ### Description
 > This project uses **Python, flask, html, css, bootstrap** for creating a basic blog.
 >
-> This project is not not complete and various features need to be added in future.
+> This project is made to familiarise with Flask and implement the learnt concepts. It is not complete and various features will be added in future.
 
 
 ### Installation
@@ -22,31 +22,39 @@
 
 Install the project dependencies with the following commands:
 
-```$ pip install -r requirwments.txt
+```python
+$ pip install -r requirwments.txt
 ```
 
 To execute the flask applycation, use the following command:
 
-```$ python run.py```
+```python
+$ python run.py
+```
 
 ### Features
 
-The features added till now are as follows:
+The features added in the flask application are as follows:
 
  - Sign Up
  - Login 
  - See Account Details
  - Update Account Details
- - Add & Update profile picture
+ - Add & Update profile picture with image resizing
+ - Restricting access to certain pages based on login status
  
-More features will be added in future.
+**More features will be added in future.**
 
 ### Examples
 
 
+
+### Licence
+
+
  
- 
- 
+### Version
+
  
  
 ### Author
