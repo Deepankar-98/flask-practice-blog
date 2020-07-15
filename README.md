@@ -40,7 +40,7 @@ The features added in the flask application are as follows:
 
 ### Installation
 
-**Python 3.7.3** is used in this project.
+**Python 3.8.3** is used in this project.
 
 Install the project dependencies with the following commands:
 
@@ -51,7 +51,7 @@ $ pip install -r requirwments.txt
 To execute the flask applycation, use the following command:
 
 ```python
-$ python run.py
+$ python app.py
 ```
 
 ---
@@ -61,7 +61,7 @@ $ python run.py
 
 ## License
 
-MIT © [Deepankar](https://github.com/Deepankar-98/Flask-Practice-Project)
+MIT © 2020 [Deepankar](https://github.com/Deepankar-98/Flask-Practice-Project)
 
 ---
 
