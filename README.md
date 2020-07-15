@@ -13,9 +13,9 @@
 
 
 ### Description
-> This project uses **Python, flask, html, css, bootstrap** for creating a basic blog.
->
-> This project is made to familiarise with Flask and implement the learnt concepts. It is not complete and various features will be added in future.
+This project uses **Python, flask, html, css, bootstrap** for creating a basic flask blog.
+
+This project is made to familiarise with Flask and implement the learnt concepts. It is not complete and various features will be added in future.
 
 ---
 
@@ -27,8 +27,7 @@ The features added in the flask application are as follows:
 
  - Sign Up
  - Login 
- - See Account Details
- - Update Account Details
+ - See & Update Account Details
  - Add & Update profile picture with image resizing
  - Restricting access to certain pages based on login status
  
@@ -40,7 +39,7 @@ The features added in the flask application are as follows:
 
 ### Installation
 
-**Python 3.8.3** is used in this project.
+**Python 3.8.3** is used for developing this project.
 
 Install the project dependencies with the following commands:
 
