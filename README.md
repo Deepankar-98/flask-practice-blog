@@ -1,5 +1,8 @@
 # <u>Flask Blog</u>:
 
+**Please visit the link given below to see the blog in action.**
+[demo flask website](https://deepankar-flask-blog.herokuapp.com/)
+
 ### Table of Contents:
 
 1. [Description](#description)
@@ -15,7 +18,7 @@
 ### Description
 This project uses **Python, flask, html, css, bootstrap** for creating a basic flask blog.
 
-This project is made to familiarise with Flask and implement the learnt concepts. It is not complete and various features will be added in future.
+This project is made to familiarise with Flask and implement the learnt concepts along with deployment process using Heroku. It is not complete and various features will be added in future.
 
 ---
 
