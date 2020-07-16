@@ -63,7 +63,7 @@ $ python app.py
 
 ## License
 
-MIT © 2020 [Deepankar](https://github.com/Deepankar-98/Flask-Practice-Project)
+MIT © 2020 [Deepankar](https://github.com/Deepankar-98/fask-practice-blog)
 
 ---
 
@@ -79,6 +79,6 @@ MIT © 2020 [Deepankar](https://github.com/Deepankar-98/Flask-Practice-Project)
  
 ### Author
 
-The author of this project is [Deepankar](https://github.com/Deepankar-98/Flask-Practice-Project).
+The author of this project is [Deepankar](https://github.com/Deepankar-98/fask-practice-blog).
 
 
