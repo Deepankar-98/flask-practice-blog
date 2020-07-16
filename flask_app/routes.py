@@ -7,8 +7,8 @@ import secrets
 import os
 
 
-post_data_1 = [{'title': "Blog-1", 'desc': 'the first blog', 'author': 'deep', 'date_posted': '12th june'},
-             {'title': "Blog-2", 'desc': 'the 2nd blog', 'author': 'alien', 'date_posted': '11th june'}]
+post_data_1 = [{'title': "Blog-1", 'desc': 'The first blog.', 'author': 'Deepankar', 'date_posted': '12th june'},
+             {'title': "Blog-2", 'desc': 'The 2nd blog.', 'author': 'alien', 'date_posted': '11th june'}]
 
 
 @app.route('/')

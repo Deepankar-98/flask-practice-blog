@@ -1,0 +1,16 @@
+.incomplete-site {
+    font-size: 20px;
+    color: red;
+}
+.incomplete-site > strong {
+    text-decoration: underline;
+}
+.incomplete-site p {
+    font-size: 15px;
+}
+h1 {
+    font-size: 2.5rem;
+    color: teal;
+    margin-bottom: 4%;
+    text-decoration: underline;
+}
