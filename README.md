@@ -63,7 +63,7 @@ $ python app.py
 
 ## License
 
-MIT © 2020 [Deepankar](https://github.com/Deepankar-98/fask-practice-blog)
+MIT © 2020 [Deepankar](https://github.com/Deepankar-98)
 
 ---
 
