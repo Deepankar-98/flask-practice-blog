@@ -6,7 +6,7 @@
 ### Table of Contents:
 
 1. [Description](#description)
-2. [Features](#features)
+2. [Functionalities added](#functionalities-added)
 3. [Installation](#installation)
 5. [License](#license)
 6. [Version](#version)
@@ -24,9 +24,9 @@ This project is made to familiarise with Flask and implement the learnt concepts
 
 
 
-## Features
+## Functionalities added
 
-The features added in the flask application are as follows:
+The functionalities added in this flask application are as follows:
 
  - Sign Up
  - Login 
